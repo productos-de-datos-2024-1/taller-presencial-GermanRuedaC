@@ -1,0 +1,20 @@
+2024-04-06 09:18:22,440:INFO:Starting the application
+2024-04-06 09:18:22,497:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:18:22,497:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:18:22,500:INFO: * Restarting with stat
+2024-04-06 09:18:23,863:INFO:Starting the application
+2024-04-06 09:18:23,877:WARNING: * Debugger is active!
+2024-04-06 09:18:23,896:INFO: * Debugger PIN: 126-603-404
+2024-04-06 09:19:10,973:INFO:127.0.0.1 - - [06/Apr/2024 09:19:10] "GET / HTTP/1.1" 200 -
+2024-04-06 09:19:13,235:INFO:127.0.0.1 - - [06/Apr/2024 09:19:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 09:19:26,416:INFO:127.0.0.1 - - [06/Apr/2024 09:19:26] "GET / HTTP/1.1" 200 -
+2024-04-06 09:19:36,442:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 09:19:36,908:INFO:Prediction: 170843.12
+2024-04-06 09:19:36,909:INFO:127.0.0.1 - - [06/Apr/2024 09:19:36] "POST / HTTP/1.1" 200 -
+2024-04-06 09:20:52,419:INFO:127.0.0.1 - - [06/Apr/2024 09:20:52] "GET / HTTP/1.1" 200 -
+2024-04-06 09:20:58,760:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 09:20:58,786:INFO:Prediction: 170843.12
+2024-04-06 09:20:58,788:INFO:127.0.0.1 - - [06/Apr/2024 09:20:58] "POST / HTTP/1.1" 200 -
+2024-04-06 09:35:11,025:INFO:Starting the application
+2024-04-06 09:35:11,241:INFO:Starting the application

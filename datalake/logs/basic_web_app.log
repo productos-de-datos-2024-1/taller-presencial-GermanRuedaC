@@ -1,0 +1,29 @@
+2024-03-23 12:01:32,469:INFO:Starting the application
+2024-03-23 12:01:32,551:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 12:01:32,554:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 12:01:32,556:INFO: * Restarting with stat
+2024-03-23 12:01:34,709:INFO:Starting the application
+2024-03-23 12:01:34,730:WARNING: * Debugger is active!
+2024-03-23 12:01:35,916:INFO: * Debugger PIN: 385-753-705
+2024-03-23 12:02:19,968:INFO:127.0.0.1 - - [23/Mar/2024 12:02:19] "GET / HTTP/1.1" 200 -
+2024-03-23 12:02:25,484:INFO:127.0.0.1 - - [23/Mar/2024 12:02:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-23 12:02:53,896:INFO:User values: {'bedrooms': 2.0, 'bathrooms': 6.0, 'sqft_living': 11800.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 3}
+2024-03-23 12:02:57,903:INFO:Prediction: 3100407.03
+2024-03-23 12:02:57,915:INFO:127.0.0.1 - - [23/Mar/2024 12:02:57] "POST / HTTP/1.1" 200 -
+2024-03-23 12:05:20,871:INFO:Starting the application
+2024-03-23 12:05:21,147:INFO:Starting the application
+2024-03-25 20:04:49,410:INFO:Starting the application
+2024-03-25 20:04:49,513:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-25 20:04:49,513:INFO:[33mPress CTRL+C to quit[0m
+2024-03-25 20:04:49,525:INFO: * Restarting with stat
+2024-03-25 20:04:52,485:INFO:Starting the application
+2024-03-25 20:04:52,509:WARNING: * Debugger is active!
+2024-03-25 20:04:52,542:INFO: * Debugger PIN: 385-753-705
+2024-03-25 20:05:16,668:INFO:127.0.0.1 - - [25/Mar/2024 20:05:16] "GET / HTTP/1.1" 200 -
+2024-03-25 20:05:50,906:INFO:User values: {'bedrooms': 5.0, 'bathrooms': 2.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 2.0, 'waterfront': 0, 'condition': 3}
+2024-03-25 20:05:54,941:INFO:Prediction: 220715.73
+2024-03-25 20:05:54,941:INFO:127.0.0.1 - - [25/Mar/2024 20:05:54] "POST / HTTP/1.1" 200 -
+2024-03-25 20:11:51,833:INFO:Starting the application
+2024-03-25 20:11:52,243:INFO:Starting the application
